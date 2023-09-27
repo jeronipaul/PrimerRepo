@@ -3,3 +3,4 @@ Fichero conflicto
 añado linea en local
 cambio repositorio remoto
 
+nueva linea
