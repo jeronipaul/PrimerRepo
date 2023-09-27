@@ -1,1 +1,2 @@
 Fichero conflicto
+añado linea en local
