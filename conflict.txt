@@ -1,4 +1,4 @@
-Fichero conflicto
+Fichero conflicto v2
 
 añado linea en local
 cambio repositorio remoto
