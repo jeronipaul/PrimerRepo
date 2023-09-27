@@ -31,3 +31,4 @@ git merge feature/login
 
 recomendable borrar rama:
 git branch -d feature/login
+git push --set-upstream origin feature/login
