@@ -15,3 +15,16 @@ git push  (enviar commits al repositorio remoto)
 ... cambios fuera del repositorio local
 
 git pull
+
+
+... ramas
+
+git branch  - informacion
+git checkout main   - descargar rama
+git checkout -b feature/login
+
+la primera vez hay que establecer origen
+git push --set-upstream origin feature/login
+
+unir rama:
+git merge feature/login
