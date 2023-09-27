@@ -1,0 +1,9 @@
+cd ... ir a directorio donde clonar
+git --help
+git clone https://github.com/jeronipaul/PrimerRepo
+git status (ver estado)
+... crear o editar repositorio
+git add .
+git config --global user.email "jeroni.paul@hotmail.com"
+git config --global user.name "jeronipaul"
+git commit -m "Creadas notas de proyecto"
