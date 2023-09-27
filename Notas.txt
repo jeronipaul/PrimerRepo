@@ -7,3 +7,7 @@ git add .
 git config --global user.email "jeroni.paul@hotmail.com"
 git config --global user.name "jeronipaul"
 git commit -m "Creadas notas de proyecto"
+
+git log
+
+git push  (enviar commits al repositorio remoto)
