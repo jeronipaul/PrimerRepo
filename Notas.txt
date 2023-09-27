@@ -11,3 +11,7 @@ git commit -m "Creadas notas de proyecto"
 git log
 
 git push  (enviar commits al repositorio remoto)
+
+... cambios fuera del repositorio local
+
+git pull
