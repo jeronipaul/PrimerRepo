@@ -1,2 +1,2 @@
-public class revisar (
+public class revisar {
 }
